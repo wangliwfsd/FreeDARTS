@@ -1,8 +1,8 @@
 >📋  A README.md for code accompanying paper
 
-# Differentiable Architecture Search Meets Network Pruning at Initialization: A More Reliable, Efficient, and Flexible Framework
+# Extending Zero-Cost Proxies for Training-free DARTS: From Architecture-Level Scoring to Operation-Level Sensitivity Analysis
 
-This repository is the implementation of Differentiable Architecture Search Meets Network Pruning at Initialization: A More Reliable, Efficient, and Flexible Framework. 
+This repository is the implementation of Extending Zero-Cost Proxies for Training-free DARTS: From Architecture-Level Scoring to Operation-Level Sensitivity Analysis. 
 
 
 ## Requirements
