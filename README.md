@@ -4,6 +4,7 @@
 
 This repository is the implementation of Extending Zero-Cost Proxies for Training-free DARTS: From Architecture-Level Scoring to Operation-Level Sensitivity Analysis. 
 
+Note: We only changed the name of the readme file to prevent confusion on 05 Feb 2023.
 
 ## Requirements
 
