@@ -1,10 +1,7 @@
 >📋  A README.md for code accompanying paper
 
-# Extending Zero-Cost Proxies for Training-free DARTS: From Architecture-Level Scoring to Operation-Level Sensitivity Analysis
+# FreeDARTS
 
-This repository is the implementation of Extending Zero-Cost Proxies for Training-free DARTS: From Architecture-Level Scoring to Operation-Level Sensitivity Analysis. 
-
-Note: We only changed the name of the readme file to prevent confusion on 05 Feb 2023.
 
 ## Requirements
 
@@ -17,16 +14,7 @@ Following DARTS and NAS-Bench-201 install requirements, download NAS-Bench-201-v
 
 ## Search on NAS-Bench-201
 
-The reproducible codes could be found in NAS_Bench201/exps/algos/FreeDARTS_Synflow_oneshot.ipynb
-
-
-## Search on DARTS space
-
-The codes for FreeDARTS could be found in DARTS_CNN/FreeDARTS_Synflow_oneshot.ipynb
-
-The codes FOR FreeDARTS$\dagger$ could be found in DARTS_CNN/FreeDARTS_Synflow_oneshot_20cells.ipynb
-
-The codes FOR FreeDARTS$\ddagger$ could be found in DARTS_CNN/FreeDARTS_Synflow_ImageNet_oneshot.ipynb
+The reproducible codes could be found in NAS_Bench201/exps/algos/FreeDARTS_iterative.ipynb
 
 
 ## Searched architectures
